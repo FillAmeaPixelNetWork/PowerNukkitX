@@ -1,5 +1,10 @@
 [<img alt="PowerNukkit" width="838" src="https://raw.githubusercontent.com/PowerNukkit/PowerNukkit/master/.github/images/banner.png" />](https://powernukkit.org)
 
+<div align="right">
+  Languages:
+  English | 
+  <a title="中文" href="/README_CN.md">中文</a>
+</div>
 
 <h2>多语言文档</h2>
 
